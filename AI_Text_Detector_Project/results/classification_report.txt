@@ -1,0 +1,9 @@
+=== AI Text Detector Evaluation ===
+              precision    recall  f1-score   support
+
+       Human       0.99      1.00      0.99      9373
+          AI       1.00      0.99      0.99      9461
+
+    accuracy                           0.99     18834
+   macro avg       0.99      0.99      0.99     18834
+weighted avg       0.99      0.99      0.99     18834
